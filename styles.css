@@ -1,15 +1,24 @@
 * {
     margin:0px;
     padding:0px;
+    box-sizing: border-box;
 }
 
 body {
-    background-color: pink;
+    background-image: url(header.jpg);
 }
 
 h1 {
-    color: red;
+    color: white;
+    font-size: 64px;
 }
 .container{
-    background-color: green;
+    background: white;
+}
+.header{
+    margin: center;
+    background-color: rgb(89, 89, 89);
+    text-align: center;
+    padding: 10px;
+    background-size: cover;
 }
