@@ -3,9 +3,6 @@
     padding:0px;
     box-sizing: border-box;
 }
-html {
-    font-family: 'Josefin Sans', sans-serif;
-}
 
 body {
     background-image: url(header.jpg);
@@ -36,4 +33,7 @@ h2 {
     margin: auto;
     width: 100%;
     align-content: center;
+}
+h1, h2, p, a {
+    font-family: 'Josefin Sans', sans-serif;
 }
