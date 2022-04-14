@@ -37,3 +37,14 @@ h2 {
 h1, h2, p, a {
     font-family: 'Josefin Sans', sans-serif;
 }
+footer {
+    padding: 15px;
+    text-align: center;
+    background: rgb(37, 37, 37);
+    color: white;
+    font-size: 2.5vh;
+    margin: auto;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+  }
